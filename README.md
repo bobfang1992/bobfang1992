@@ -1,7 +1,9 @@
 You can find me here: 
 
 * [Blog](https://csgrinding.xyz)
+* [Twitter](https://twitter.com/BobFang1992)
 
+Recent Github Activities:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#5](https://github.com/bobfang1992/personal-blog/pull/5) in [bobfang1992/personal-blog](https://github.com/bobfang1992/personal-blog)
 2. 💪 Opened PR [#5](https://github.com/bobfang1992/personal-blog/pull/5) in [bobfang1992/personal-blog](https://github.com/bobfang1992/personal-blog)
